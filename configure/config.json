@@ -1,0 +1,14 @@
+{
+    "mysql":{
+        "host":"mymariadb",
+        "user":"root",
+        "password":"mypass",
+        "port": "3306",
+        "db":"mining"
+    },
+    "app":{
+    	"wallet":"8AA7bA49894d062D10782DaED7b165Ae48F146Ba",
+    	"interval": 25,
+        "workers": ["and", "mik", "p1", "zdb"]
+    }
+}
